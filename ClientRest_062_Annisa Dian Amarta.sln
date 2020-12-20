@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientRest_062_Annisa Dian Amarta", "ClientRest_062_Annisa Dian Amarta\ClientRest_062_Annisa Dian Amarta.csproj", "{2FC4E583-802C-4B8D-B3F5-7AC7328119AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC4E583-802C-4B8D-B3F5-7AC7328119AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC4E583-802C-4B8D-B3F5-7AC7328119AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC4E583-802C-4B8D-B3F5-7AC7328119AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC4E583-802C-4B8D-B3F5-7AC7328119AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D49CEA-6337-4FAF-B6B4-3D8C2C40AE55}
+	EndGlobalSection
+EndGlobal
